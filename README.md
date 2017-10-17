@@ -19,3 +19,5 @@ Python Libraries used
 4.pandas
 
 5.sklearn.
+
+Usage:- import all the above mentioned library in Python.Run the miniProject.py script which will show the output. 
