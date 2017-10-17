@@ -9,6 +9,7 @@ way.The classifier used for prediction is Decision Tree. We have used decision t
 decision tree works best whenever there is case of Yes/No. 
 
 Python Libraries used
+
 1.numpy
 2.scipy
 3.tensorflow
